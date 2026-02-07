@@ -1,0 +1,5 @@
+diffusers>=0.30.1
+transformers>=4.44.2
+# accelerate can be installed from source if you need bleeding edge; PyPI works for most cases
+accelerate>=0.33.0
+imageio-ffmpeg>=0.5.1
