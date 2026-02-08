@@ -26,7 +26,10 @@ Thumbs.db
 *.safetensors
 .cache/
 
-# PDF generator script (internal tool, not part of the project)
+# PDF generator scripts (internal tools, not part of the project)
 generate_experiment_log.py
-
-
+generate_experiment_log_short.py
+experiment_log_short.pdf
+run_cogvideox_colab.ipynb
+run_experiments.sh
+run_all.sh
